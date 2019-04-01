@@ -1,0 +1,10 @@
+# Build and binary
+*__pycache__/
+*build/
+*dist/
+*ml-100k/
+*ml-1m/
+*ml-20m/
+*models/
+*outputs/
+*.*/
